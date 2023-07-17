@@ -1,5 +1,5 @@
 ### Hi there 👋
-**DouglasBitencourt/DouglasBitencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DouglasBitencourt/DouglasBitencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>
 Bem vindo meu nobre, tudo bem? 
 
 Here are some ideas to get you started:
