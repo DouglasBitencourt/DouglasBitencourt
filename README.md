@@ -5,7 +5,7 @@ Bem vindo meu nobre, tudo bem?
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on KOERICH 
-- 🌱 I’m currently learning JavaSCript
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on FullSTACK in the future<br>
 <h2>Conhecimentos:<h2/>
 <br>
